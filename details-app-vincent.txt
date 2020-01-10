@@ -1,11 +1,13 @@
 
 
-start angular project in "PROJECT" folder
-in the terminal -> ng serve (if angular is already installed)
+start angular project in "angular folder
+in the terminal -> "ng serve" (if angular is already installed)
 
 DJANGO admin log : 
 super-user = vincent
 password = hellopass
+
+in the terminal: cmd to start django server -> "python manage.py runserver"
 
 DJANGO documentation :
 
