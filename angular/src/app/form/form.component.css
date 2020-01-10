@@ -1,0 +1,12 @@
+.dark {
+    background: #666;
+    font-weight: 700;
+    color: #FFF;
+}
+
+h2 {
+    background: #666;
+    color: #FFF;
+    border-radius: 4px;
+    padding: 8px;;
+}

@@ -1,0 +1,12 @@
+
+
+start angular project in "PROJECT" folder
+in the terminal -> ng serve (if angular is already installed)
+
+DJANGO admin log : 
+super-user = vincent
+password = hellopass
+
+DJANGO documentation :
+
+https://www.django-rest-framework.org/tutorial/quickstart/
